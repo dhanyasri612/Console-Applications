@@ -1,0 +1,6 @@
+super_admin@gmail.com,admin@123
+admin2@gmail.com,1000008738122
+admin3@gmail.com,1000002863746
+admin4@gmail.com,1000005987566
+admin5@gmail.com,1000007956324
+admin6@gmail.com,1000005159614
