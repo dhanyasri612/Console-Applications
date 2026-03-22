@@ -1,2 +1,2 @@
-dhanyasrikalisamy@gmail.com,123456
-user123@gmail.com,123456
+dhanyasrikalisamy@gmail.com,123456,250.0,1000.0
+user123@gmail.com,123456,550.0,1000.0

@@ -1,3 +1,3 @@
-Physics,89-90-76,Rani,90,500.0
+Physics,89-90-76,Rani,89,500.0
 SherLock Holmes,9876-90,sirWatson,564,900.0
 Mind full of War,908777-847639,Watson,450,700.0
